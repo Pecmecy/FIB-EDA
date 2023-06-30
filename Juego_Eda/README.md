@@ -1,6 +1,6 @@
 # EDA Game
 
-Project developed for the Data Estructures and Algorythms subject from the Computer Science degree at FIB UPC. 
+Project developed for the Data Structures and Algorythms subject from the Computer Science degree at FIB UPC. 
 
 # Content
 
