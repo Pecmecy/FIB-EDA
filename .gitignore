@@ -1,4 +1,9 @@
-.txt
-.app
-.vscode
-.DS_Store
+*
+!*.*
+*.txt
+*.app
+*.vscode
+*.DS_Store
+*.x
+*.pdf
+*.exe
